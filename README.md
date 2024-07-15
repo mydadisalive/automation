@@ -35,4 +35,6 @@ pip install pytest
 ```
 
 #### Running Tests
+```bash
 bash run_tests.sh
+```
